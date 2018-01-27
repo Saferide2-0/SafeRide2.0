@@ -10,5 +10,5 @@ Welcome to SafeRide 2.0's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   setup
+   setup/setup
    use
