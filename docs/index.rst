@@ -11,4 +11,4 @@ Welcome to SafeRide 2.0's documentation!
    :caption: Contents:
 
    setup/setup
-   use
+   use/use
