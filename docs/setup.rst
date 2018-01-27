@@ -7,4 +7,4 @@ Setting Up SafeRide 2.0
     parts
     software_setup
     assembly
-    installation
+    adding_on_bike
